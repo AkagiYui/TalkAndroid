@@ -9,3 +9,9 @@
 - [ ] 深色模式(自定义/跟随系统)
 - [ ] 主题色(自定义/跟随系统)
 - [ ] Amoled 黑色模式
+- [ ] App图标跟随系统主题色
+
+## 文档
+
+- [Medium: Bottom navigation in jetpack compose using Material3.](https://medium.com/@bharadwaj.rns/bottom-navigation-in-jetpack-compose-using-material3-c153ccbf0593)
+- 
